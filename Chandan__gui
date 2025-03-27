@@ -1,0 +1,43 @@
+I developed the graphical user interface (GUI) for the AI Data Management System, making it intuitive and efficient for handling AI-related data within an operating system. The system ensures seamless data organization, security, and real-time visualization, making AI workflows more accessible.
+
+Key Features:
+Data Organization & Storage
+
+Manages structured and unstructured data with version control.
+
+Supports databases, file systems, and cloud storage integration.
+
+Data Preprocessing & Security
+
+Automates data validation, filtering, and transformation.
+
+Implements role-based access control (RBAC) for secure data handling.
+
+Data Processing & Visualization
+
+Provides real-time charts and graphs for data insights.
+
+Displays system performance metrics and AI model training progress.
+
+Integration with OS Components
+
+Connects with system logs, resource monitoring, and user activity tracking.
+
+Supports drag-and-drop functionality for easy data import/export.
+
+AI Workflow Management
+
+Automates AI pipeline execution and logs model training experiments.
+
+Provides real-time monitoring and version tracking.
+
+My Contribution – GUI Development
+I focused on creating an interactive and user-friendly interface for the system:
+
+Designed a dashboard with intuitive menus, buttons, and real-time updates.
+
+Integrated drag-and-drop features for seamless data management.
+
+Ensured accessibility, including dark mode and multi-language support.
+
+Used responsive design for optimal performance across devices.
